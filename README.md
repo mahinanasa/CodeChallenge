@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.com/mahinanasa/CodeChallenge.svg?token=dMps33D1Hc9DdwwLQic4&branch=gh-pages)](https://travis-ci.com/mahinanasa/CodeChallenge)
+
+[![Build Status](https://travis-ci.com/mahinanasa/CodeChallenge.svg?token=dMps33D1Hc9DdwwLQic4&branch=master)](https://travis-ci.com/mahinanasa/CodeChallenge)
 
 # codechellenge
 
