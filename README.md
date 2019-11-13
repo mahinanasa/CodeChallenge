@@ -36,7 +36,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### BigO of the project:
+### BigO of the project: O(N^2)
 
 # Screen Shots
 
